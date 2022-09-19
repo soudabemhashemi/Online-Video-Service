@@ -1,0 +1,181 @@
+.movie-header{
+    flex-shrink: 0;
+    min-width: 100%;
+    height: 312px;
+    position: relative;
+}
+.movie-profile{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    right : 20%;
+}
+.rate-box{
+    background-color: #b12025;
+    opacity: 0.7;
+    margin-bottom: 47px;
+    padding: 0;
+    height: 30%;
+}
+
+.imdb-rate{
+    height: 50%;
+    text-align: center;
+    padding: 30%;
+    color: white;
+    font-size: x-large;
+}
+
+.rating{
+    font-size: larger;
+    color: white;
+    margin-bottom: 0;
+}
+
+.emteyaz{
+    text-align: right;
+    color: white;
+    margin-bottom: 0;
+}
+
+.number-of-rate{
+    text-align: right;
+    color: white;
+}
+
+.margin-left-30{
+    margin-left: 30%;
+}
+
+.margin-left-52{
+    margin-left: 52%;
+}
+
+.movie-name{
+    color : white;
+}
+.director{
+    color :white;
+    direction: rtl;
+}
+
+.writers{
+    color : white;
+    direction: rtl;
+}
+
+.duration{
+    color : white;
+    direction: rtl;
+}
+
+.published-date{
+    color : white;
+}
+
+.actors-box{
+    background-color: #4e4e50;
+    border-radius: 25px;
+    padding: 20px;
+    width: 100%;
+    height: 260px;
+    margin-top: 10%;
+    left: 20%;
+    right: 20%;
+}
+
+
+.box-title{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.actor-pic{
+    width:90%;
+    object-fit:cover;
+    border-radius:50%;
+    display: inline-block;
+}
+
+.comments-box{
+    background-color: #4e4e50;
+    border-radius: 25px;
+    width: 100%;
+    padding-bottom: 20px;
+    margin-top: 5%;
+    left: 20%;
+    right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.register-comment-box{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 20px;
+    height: 120px;
+    left: 15%;
+    right: 20%;
+}
+
+.register-comment-box-title{
+    color: black;
+    text-align: right;
+}
+
+.register-button{
+    background-color : green;
+    border-radius: 15px;
+    width: 20%;
+}
+
+.comment-box{
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 20px;
+    height: 130px;
+    left: 15%;
+    right: 20%;
+    margin-top: 5%;
+}
+
+.text-align-right{
+    text-align: right;
+}
+
+div.scrollbar-menu {
+    overflow: auto;
+    white-space: nowrap;
+    display: block;
+    scrollbar-width: none;
+}
+
+div.scrollbar-menu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+.scrollbar-menu::-webkit-scrollbar{
+    display: none;
+}
+
+.comment-input{
+    width: 100%;
+    text-align: right;
+    border: none;
+}
+
+.add_to_watchlist-button{
+    background-color : #B12025;
+    border-radius: 15px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.height-0{
+    height: 0px;
+    border: 0px;
+}

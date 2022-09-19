@@ -1,0 +1,30 @@
+.header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    direction: rtl;
+    align-items: center;
+    flex-direction: row;
+    display: block;
+    font-size: 1em;
+    white-space: nowrap;
+    z-index: 100000000000;
+    background-color: #B12025;
+}
+
+.account-icon {
+    width: 245%;
+    height: 102%;
+}
+
+.imedb-logo{
+    width: 44%;
+}
+
+.dropdown-style{
+    text-align: center;
+    background-color: #B12025;
+    opacity: 85%;
+    margin-left: 4%;
+    border-radius: 18px;
+}

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e292274-902a-48a1-9ad7-d9bf8e8c5d86" name="Changes" comment="import react">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="phase7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29N5yD2sfMr7YqLRvUORduH7wK2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../downloads/CA7" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL‎۰۰۰۰۱" summary="rd">
+      <created>1651098431419</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1651098431419</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۲" summary="watchlist.">
+      <created>1651098613432</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
+      <updated>1651098613432</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۳" summary="watchlist.">
+      <created>1651104043189</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1651104043189</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e292274-902a-48a1-9ad7-d9bf8e8c5d86" name="Changes" comment="watchlist." />
+      <created>1652940957527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652940957527</updated>
+      <workItem from="1654970833794" duration="1279000" />
+      <workItem from="1655465348453" duration="5545000" />
+      <workItem from="1655539485935" duration="4934000" />
+      <workItem from="1655590308609" duration="1826000" />
+    </task>
+    <task id="LOCAL‎۰۰۰۰۴" summary="Add redirection to signup in login page">
+      <created>1652942871479</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1652942871479</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۵" summary="Edit signup page">
+      <created>1652943252663</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۵" />
+      <updated>1652943252663</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۶" summary="Handle signup">
+      <created>1652951851586</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۶" />
+      <updated>1652951851586</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۷" summary="Add jwt">
+      <created>1652967670333</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۷" />
+      <updated>1652967670333</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۸" summary="Add jwt">
+      <created>1652969121995</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۸" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۸" />
+      <updated>1652969121995</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۹" summary="Add jwt">
+      <created>1652969977403</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۹" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۹" />
+      <updated>1652969977404</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Edit image in frontend-deployment">
+      <created>1654932358601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654932358601</updated>
+    </task>
+    <task id="LOCAL-00011" summary="edit localhost to server kube config">
+      <created>1655551366501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655551366501</updated>
+    </task>
+    <task id="LOCAL-00012" summary="edit localhost to server kube config">
+      <created>1655551470018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655551470018</updated>
+    </task>
+    <task id="LOCAL-00013" summary="edit localhost to server kube config">
+      <created>1655552131774</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655552131775</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change port to 3000">
+      <created>1655582580206</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655582580206</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Change redirection ports">
+      <created>1655583446034</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655583446034</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Edit backend url">
+      <created>1655584071467</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655584071467</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Edit backend url">
+      <created>1655584263031</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1655584263031</updated>
+    </task>
+    <task id="LOCAL-00018" summary="import react">
+      <created>1655585417267</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1655585417267</updated>
+    </task>
+    <task id="LOCAL-00019" summary="import react">
+      <created>1655586329837</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655586329837</updated>
+    </task>
+    <task id="LOCAL-00020" summary="import react">
+      <created>1655586474879</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1655586474879</updated>
+    </task>
+    <task id="LOCAL-00021" summary="import react">
+      <created>1655586995869</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1655586995869</updated>
+    </task>
+    <task id="LOCAL-00022" summary="import react">
+      <created>1655587806069</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1655587806069</updated>
+    </task>
+    <task id="LOCAL-00023" summary="import react">
+      <created>1655588143420</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1655588143420</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rd" />
+    <MESSAGE value="watchlist." />
+    <MESSAGE value="Add redirection to signup in login page" />
+    <MESSAGE value="Edit signup page" />
+    <MESSAGE value="Handle signup" />
+    <MESSAGE value="Add jwt" />
+    <MESSAGE value="Edit image in frontend-deployment" />
+    <MESSAGE value="edit localhost to server kube config" />
+    <MESSAGE value="Change port to 3000" />
+    <MESSAGE value="Change redirection ports" />
+    <MESSAGE value="Edit backend url" />
+    <MESSAGE value="import react" />
+    <option name="LAST_COMMIT_MESSAGE" value="import react" />
+  </component>
+</project>

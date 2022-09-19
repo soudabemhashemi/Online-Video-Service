@@ -1,0 +1,26 @@
+image: quay.io/aminrf/docker-kubectl:latest
+
+services:
+  - docker:dind
+
+stages:
+  - build
+  - deploy
+
+build:
+  image: docker
+  stage: build
+  before_script:
+    - docker login -u $REGISTERY_USERNAME -p $REGISTERY_PASSWORD quay.io
+  script:
+    -  cd "$CI_PROJECT_DIR/my-app" docker build . -t quay.io/soudabe_mhashemi/ie-project-front:$CI_COMMIT_SHA
+    -  cd "$CI_PROJECT_DIR/my-app" docker push quay.io/soudabe_mhashemi/ie-project-front:$CI_COMMIT_SHA
+    -  cd "$CI_PROJECT_DIR/my-app" docker rmi quay.io/soudabe_mhashemi/ie-project-front:$CI_COMMIT_SHA || true
+  after_script:
+    - docker logout quay.io
+
+
+deploy:
+  stage: deploy
+  script:
+    - cd "$CI_PROJECT_DIR/my-app" http_proxy=$PROXY_SERVER https_proxy=$PROXY_SERVER kubectl --kubeconfig $KUBE_CONFIG set image deployment/frontend-deployment frontend=quay.io/soudabe_mhashemi/ie-project-front:$CI_COMMIT_SHA
